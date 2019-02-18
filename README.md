@@ -1,5 +1,5 @@
 # FrequencyAndDutyMeter
-Code for the frequency and duty meter of square wave signals
+Code for the frequency and duty meter of square wave signals.
 
 This code has been written the frequency and duty cycle meter of 3.3 V square waves based on timing of their pulse width and period. 
 The timing of both is measured by counting the number of 48 MHz CPU clock cycles of the Atmel SAMD21 microcontroller installed in 
