@@ -7,6 +7,7 @@
 // It may or may not work with other MCUs featuring the ARM Cortex M0 processor.
 // 
 // This project's hardware and further details are described in the following Instructable:
+// https://www.instructables.com/id/How-to-Measure-High-Frequency-and-Duty-Cycle-Simul/
 // 
 // To implement it on your project, you have to pick the output stream first. If you have 
 // Adafruit's monochrome 128x32 OLED SPI display (https://www.adafruit.com/product/661) 
